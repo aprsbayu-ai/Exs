@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "name": "Network Scanner",
+      "path": "projects/network-scanner",
+      "description": "Port scanner untuk audit keamanan",
+      "language": "C++",
+      "status": "active",
+      "last_updated": "2024-01-15"
+    },
+    {
+      "name": "Image Processor", 
+      "path": "projects/image-processor",
+      "description": "Batch image processing tool",
+      "language": "Python",
+      "status": "in-progress",
+      "last_updated": "2024-01-10"
+    }
+  ]
+}
